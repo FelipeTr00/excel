@@ -1,0 +1,101 @@
+ID_Produto;Categoria;Marca;Modelo;Preço;Quantidade_Vendida;Data_Venda
+P001;Celulares;MarcaB;ModeloY;296,25;69;01/01/2023
+P002;Fones de Ouvido;MarcaD;ModeloW;1386,47;3;16/05/2023
+P003;Carregadores;MarcaA;ModeloZ;89,99;21;26/09/2023
+P004;Carregadores;MarcaB;ModeloY;1277,77;10;08/01/2023
+P005;Fones de Ouvido;MarcaA;ModeloZ;1136,02;77;15/06/2023
+P006;Carregadores;MarcaB;ModeloW;601,94;87;09/02/2023
+P007;Fones de Ouvido;MarcaB;ModeloW;1300,71;11;06/06/2023
+P008;Celulares;MarcaA;ModeloY;732,77;18;24/09/2023
+P009;Fones de Ouvido;MarcaC;ModeloY;1453,85;48;28/08/2023
+P010;Carregadores;MarcaA;ModeloX;918,52;11;10/03/2023
+P011;Fones de Ouvido;MarcaC;ModeloZ;1089,4;65;29/05/2023
+P012;Carregadores;MarcaD;ModeloW;378,91;82;10/07/2023
+P013;Carregadores;MarcaA;ModeloY;1415,78;54;18/08/2023
+P014;Celulares;MarcaB;ModeloW;588,14;80;18/04/2023
+P015;Carregadores;MarcaA;ModeloZ;122,91;92;11/07/2023
+P016;Carregadores;MarcaD;ModeloW;1811,98;36;03/01/2023
+P017;Celulares;MarcaC;ModeloW;534;55;05/10/2023
+P018;Fones de Ouvido;MarcaD;ModeloZ;1612,54;34;19/05/2023
+P019;Fones de Ouvido;MarcaC;ModeloW;445,37;15;19/02/2023
+P020;Fones de Ouvido;MarcaD;ModeloW;110,39;94;18/09/2023
+P021;Carregadores;MarcaD;ModeloW;143,97;59;06/02/2023
+P022;Fones de Ouvido;MarcaA;ModeloW;821,15;49;28/06/2023
+P023;Celulares;MarcaC;ModeloX;753,8;39;28/07/2023
+P024;Fones de Ouvido;MarcaD;ModeloZ;860,58;45;14/09/2023
+P025;Fones de Ouvido;MarcaB;ModeloY;1231,31;22;23/10/2023
+P026;Celulares;MarcaC;ModeloW;935,19;50;01/06/2023
+P027;Fones de Ouvido;MarcaD;ModeloW;1070,39;20;24/10/2023
+P028;Carregadores;MarcaD;ModeloZ;1712,63;98;17/07/2023
+P029;Celulares;MarcaB;ModeloZ;1557,93;2;03/06/2023
+P030;Celulares;MarcaD;ModeloZ;311,76;12;17/07/2023
+P031;Fones de Ouvido;MarcaD;ModeloW;1953,19;20;24/01/2023
+P032;Fones de Ouvido;MarcaB;ModeloZ;1425,29;41;01/07/2023
+P033;Fones de Ouvido;MarcaA;ModeloW;1699,13;68;18/04/2023
+P034;Carregadores;MarcaA;ModeloZ;1631,36;89;27/01/2023
+P035;Fones de Ouvido;MarcaB;ModeloY;725,61;31;24/06/2023
+P036;Fones de Ouvido;MarcaC;ModeloY;793,24;6;27/08/2023
+P037;Celulares;MarcaA;ModeloZ;1201,95;36;22/01/2023
+P038;Fones de Ouvido;MarcaA;ModeloY;881,24;14;30/09/2023
+P039;Celulares;MarcaD;ModeloZ;885,15;37;03/06/2023
+P040;Celulares;MarcaC;ModeloW;1897,98;39;23/01/2023
+P041;Fones de Ouvido;MarcaB;ModeloZ;1838,97;31;16/02/2023
+P042;Celulares;MarcaA;ModeloW;1052,46;2;03/01/2023
+P043;Carregadores;MarcaB;ModeloY;740,91;51;03/01/2023
+P044;Celulares;MarcaA;ModeloW;276,29;80;16/04/2023
+P045;Fones de Ouvido;MarcaB;ModeloW;1550,21;74;19/06/2023
+P046;Fones de Ouvido;MarcaC;ModeloZ;1486,33;46;28/06/2023
+P047;Celulares;MarcaA;ModeloX;1464,24;47;18/07/2023
+P048;Carregadores;MarcaD;ModeloX;1540,84;90;19/02/2023
+P049;Celulares;MarcaA;ModeloW;848,23;85;19/02/2023
+P050;Celulares;MarcaC;ModeloW;499,61;59;23/01/2024
+P051;Celulares;MarcaD;ModeloZ;1086,92;76;21/07/2024
+P052;Carregadores;MarcaC;ModeloX;1365,35;10;07/07/2024
+P053;Celulares;MarcaD;ModeloW;1347,47;84;18/06/2024
+P054;Carregadores;MarcaB;ModeloW;1440,1;9;04/07/2024
+P055;Carregadores;MarcaB;ModeloZ;1677,64;58;25/02/2024
+P056;Fones de Ouvido;MarcaB;ModeloZ;515,04;28;14/10/2024
+P057;Carregadores;MarcaB;ModeloX;1711,31;56;28/05/2024
+P058;Fones de Ouvido;MarcaB;ModeloX;133,45;59;13/08/2024
+P059;Fones de Ouvido;MarcaA;ModeloZ;1212,66;8;31/01/2024
+P060;Carregadores;MarcaC;ModeloZ;844,98;95;16/01/2024
+P061;Carregadores;MarcaA;ModeloW;1815,96;94;03/04/2024
+P062;Celulares;MarcaA;ModeloX;1518,01;93;03/07/2024
+P063;Fones de Ouvido;MarcaA;ModeloY;1993,36;85;12/01/2024
+P064;Celulares;MarcaC;ModeloZ;1299,78;97;11/10/2024
+P065;Carregadores;MarcaC;ModeloX;1420,78;53;20/08/2024
+P066;Carregadores;MarcaA;ModeloX;65,74;24;19/04/2024
+P067;Celulares;MarcaA;ModeloW;480,5;96;09/03/2024
+P068;Fones de Ouvido;MarcaA;ModeloX;744,84;37;03/01/2024
+P069;Celulares;MarcaB;ModeloX;1970,02;54;18/09/2024
+P070;Celulares;MarcaD;ModeloW;1974,12;34;15/02/2024
+P071;Fones de Ouvido;MarcaD;ModeloY;1507,19;78;29/06/2024
+P072;Fones de Ouvido;MarcaC;ModeloX;1390,61;77;24/02/2024
+P073;Fones de Ouvido;MarcaB;ModeloZ;1073,98;94;16/01/2024
+P074;Celulares;MarcaC;ModeloX;1670,98;35;13/03/2024
+P075;Fones de Ouvido;MarcaD;ModeloW;1545,17;65;18/07/2024
+P076;Carregadores;MarcaB;ModeloY;1730;100;01/09/2024
+P077;Fones de Ouvido;MarcaD;ModeloX;1997,54;23;16/07/2024
+P078;Fones de Ouvido;MarcaA;ModeloX;1049,05;90;10/02/2024
+P079;Celulares;MarcaC;ModeloW;1306,93;47;25/06/2024
+P080;Celulares;MarcaC;ModeloZ;914,44;27;20/04/2024
+P081;Fones de Ouvido;MarcaC;ModeloZ;1309,96;20;31/01/2024
+P082;Fones de Ouvido;MarcaA;ModeloZ;327,58;59;25/08/2024
+P083;Celulares;MarcaA;ModeloW;865,9;71;20/06/2024
+P084;Fones de Ouvido;MarcaD;ModeloW;1847,65;15;05/02/2024
+P085;Celulares;MarcaB;ModeloZ;787,23;79;15/08/2024
+P086;Fones de Ouvido;MarcaB;ModeloW;93,55;32;24/04/2024
+P087;Carregadores;MarcaC;ModeloX;469,41;59;24/07/2024
+P088;Fones de Ouvido;MarcaC;ModeloW;1928,87;76;16/08/2024
+P089;Celulares;MarcaC;ModeloX;1783,61;77;11/04/2024
+P090;Fones de Ouvido;MarcaB;ModeloX;866,55;10;04/09/2024
+P091;Carregadores;MarcaA;ModeloW;1561,64;85;25/03/2024
+P092;Fones de Ouvido;MarcaA;ModeloZ;629,28;1;14/08/2024
+P093;Celulares;MarcaD;ModeloW;221,08;24;29/02/2024
+P094;Fones de Ouvido;MarcaD;ModeloX;1472,61;58;07/01/2024
+P095;Celulares;MarcaD;ModeloY;656,09;6;27/08/2024
+P096;Carregadores;MarcaA;ModeloZ;1737,33;75;24/10/2024
+P097;Fones de Ouvido;MarcaC;ModeloW;286,69;9;22/05/2024
+P098;Fones de Ouvido;MarcaD;ModeloY;192,68;44;25/06/2024
+P099;Carregadores;MarcaC;ModeloY;102,75;50;24/07/2024
+P100;Carregadores;MarcaB;ModeloY;687,74;45;26/09/2024
